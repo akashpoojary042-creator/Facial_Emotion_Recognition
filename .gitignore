@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# TensorFlow/Keras temporary files
+*.h5
+
+# Dataset
+dataset/
+
+# IDE files
+.vscode/
+.idea/
+
+# Windows files
+Thumbs.db
+desktop.ini
