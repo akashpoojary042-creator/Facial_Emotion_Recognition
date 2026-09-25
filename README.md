@@ -17,7 +17,7 @@ The project provides three different prediction modes through a Streamlit web ap
 ### 🌐 Streamlit Application
 
 **Live App:**  
-https://YOUR-STREAMLIT-APP-URL.streamlit.app/
+https://facialemotionrecognition-ukjkc87hejsthbnc7pzrhf.streamlit.app/
 
 > Open the application, select a prediction mode, and allow camera access when using the webcam options.
 
