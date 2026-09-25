@@ -1,4 +1,4 @@
-# 😊 Facial Emotion Recognition
+<img width="1899" height="1010" alt="image" src="https://github.com/user-attachments/assets/08e9d067-9c29-484e-b29d-3162d5ef1c0b" /># 😊 Facial Emotion Recognition
 
 ### CNN-Based Facial Emotion Recognition with Real-Time and Image Prediction
 
@@ -14,7 +14,7 @@ The project provides three different prediction modes through a Streamlit web ap
 
 ## 🚀 Live Demo
 
-👉 **[Open Facial Emotion Recognition App](https://facialemotionrecognition-ukjc8hejs...streamlit.app/)**
+👉 **[Open Facial Emotion Recognition App](https://facialemotionrecognition-ukjkc87hejsthbnc7pzrhf.streamlit.app/)**
 
 ---
 
