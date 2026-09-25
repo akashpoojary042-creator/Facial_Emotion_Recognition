@@ -1,5 +1,3 @@
-<img width="1899" height="1010" alt="image" src="https://github.com/user-attachments/assets/08e9d067-9c29-484e-b29d-3162d5ef1c0b" /># 😊 Facial Emotion Recognition
-
 ### CNN-Based Facial Emotion Recognition with Real-Time and Image Prediction
 
 A deep learning application that detects human faces and predicts facial emotions using a Convolutional Neural Network (CNN) trained on the FER-2013 dataset.
