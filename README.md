@@ -14,12 +14,7 @@ The project provides three different prediction modes through a Streamlit web ap
 
 ## 🚀 Live Demo
 
-### 🌐 Streamlit Application
-
-**Live App:**  
-https://facialemotionrecognition-ukjkc87hejsthbnc7pzrhf.streamlit.app/
-
-> Open the application, select a prediction mode, and allow camera access when using the webcam options.
+👉 **[Open Facial Emotion Recognition App]([https://customer-churn-prediction-nwsewnvcutao5taq8kv8th.streamlit.app/](https://facialemotionrecognition-ukjkc87hejsthbnc7pzrhf.streamlit.app/))**
 
 ---
 
