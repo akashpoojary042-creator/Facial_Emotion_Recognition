@@ -14,7 +14,7 @@ The project provides three different prediction modes through a Streamlit web ap
 
 ## 🚀 Live Demo
 
-👉 **[Open Facial Emotion Recognition App]([https://customer-churn-prediction-nwsewnvcutao5taq8kv8th.streamlit.app/](https://facialemotionrecognition-ukjkc87hejsthbnc7pzrhf.streamlit.app/))**
+👉 **[Open Facial Emotion Recognition App](https://facialemotionrecognition-ukjc8hejs...streamlit.app/)**
 
 ---
 
